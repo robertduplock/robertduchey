@@ -6,9 +6,13 @@ title = "Dancing"
 +++
 I've never liked dancing. There are many art forms I can appreciate. I can sit through a three-hour opera, standing in the cheap seats with the surtitles displayed on a little screen below. I can watch a black and white French movie from the 1940s. Over several months, I read _Infinite Jest_ — the epically long novel by the late David Foster Wallace — and let me tell you that book is a tough read, if for no other reason than it's just so damned long.
 
+<!--more-->
+
 But when it comes to dancing? Meh...
 
 There seems to be something so silly about people flinging their bodies around the stage, pulling strange faces, standing on their tippy-toes and flailing about. The pulsing undulations of their bodies, limbs shooting off in all directions — what's it all about? I know it's to tell a story, put into motion thoughts and ideas and physically convey them. Or sometimes it's just to look cool. Either way, to me, it always looks like everyone has had a bit too much to drink, and maybe they need to settle down.
+
+![](/uploads/craig-chitima-nkdlrnu88_a-unsplash.jpg)
 
 As I said, I can appreciate almost any other art form out there on some level — paintings, sculptures, installation pieces. I've been to art galleries throughout Europe and plenty in Australia. I've stared at Van Gogh's and admired the latest masterpiece by Damien Hurst. I've tracked down Banksy artworks on the streets of London. I've ducked into tiny galleries here in Sydney and nodded as I gazed upon the walls and the paintings hanging from them.
 
