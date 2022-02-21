@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <main aria-role="main" class="">
+    <article class="shadow-1 br2 pa4 mb4">
+      <h1> {{ .Title }} </h1>
+      <small>Post date: {{.Date.Format "02/01/2006"}}</small>
+      <div class="summary dark-gray avenir">
+          {{ .Summary }}
+      </div>
+      <div class="full-content dark-gray avenir">
+          {{ .Content }}
+      </div>
+    </article>
+  </main>
+{{ end }}

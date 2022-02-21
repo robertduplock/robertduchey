@@ -1,0 +1,66 @@
+:root {
+    --primary: #1f5628;
+    --secondary: #cb8b09;
+}
+
+.full-content > p:first-of-type {
+    display: none;
+}
+
+.full-content {
+    height: 0;
+    overflow: hidden;
+    transition: 0.3s all ease;
+}
+
+.full-content.show {
+    height: fit-content;
+}
+
+.bg-color-primary {
+    background-color: var(--primary);
+}
+
+.color-primary {
+    color: var(--primary);
+}
+
+.bg-color-secondary {
+    background-color: var(--secondary);
+}
+
+.color-secondary {
+    color: var(--secondary);
+}
+
+.summary {
+    margin-bottom: -1rem;
+}
+
+.pagination {
+    list-style: none;
+    display: flex;
+}
+
+li.page-item {
+    margin-right: 1rem;
+}
+
+a.page-link {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+li.page-item.active a.page-link,
+li.page-item.disabled a.page-link {
+    color: gray;
+}
+
+blockquote {
+    font-style: italic;
+    color: var(--primary);
+    border-left: 3px solid var(--primary);
+    padding-left: 0.75rem;
+    position: relative;
+    left: -0.75rem;
+}

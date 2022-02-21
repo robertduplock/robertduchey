@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body class="avenir bg-near-white">
+        {{- partial "header.html" . -}}
+        <section class="mw5 mw8-ns center ph3 baskerville">
+            <div class="lh-copy">
+                {{- block "main" . }}{{- end }}
+            </div>
+        </section>
+        {{- partial "footer.html" . -}}
+    </body>
+</html>
