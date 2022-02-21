@@ -1,8 +1,8 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://robertduchey.com/'
 languageCode = 'en-us'
 title = 'Robert Duchey'
 theme = 'rd'
-paginate = 3
+paginate = 6
 
 [params]
   brief = 'A blog about things'
