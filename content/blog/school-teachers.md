@@ -1,18 +1,29 @@
 ---
-title: "School Teachers"
-date: 2022-02-21T15:24:47+11:00
-draft: false
-tags: ['Blog', 'Teaching', 'Free writing']
+title: What has made you angry recently?
+date: 2022-02-24T04:24:47+00:00
+tags:
+- Blog
+- Teaching
+- Free writing
+draft: true
+
 ---
+I used to always think of myself as someone who didn't get angry. And to some extent, certainly, that was true. I wasn't the kind of person who got angry at people. I wasn't one to lament the unfairness of life — perhaps, due to my relative priveledge as a white male growing up in a western liberal democracy, I haven't felt particularly entitled to a lot of anger. 
 
-IPhone shabby chic farm-to-table subway tile. Brooklyn woke XOXO quinoa, flannel 3 wolf moon drinking vinegar succulents vinyl. Paleo humblebrag mumblecore trust fund you probably haven't heard of them cloud bread, brooklyn fixie pour-over banh mi raw denim viral coloring book kickstarter. Pickled locavore enamel pin, plaid cliche pitchfork gochujang ethical twee tattooed flexitarian kinfolk chambray.
+But I've known angry people. There are some people in the world who feel like it is the world who owes them something, and when expected to give, they feel as though others are taking away — even stealing. _Why should my tax dollars go to help someone who makes less money than me? I've earned my money, and now they're stealing it from me!_
 
-<!--more-->
+Being the lefty, bleeding-heart peacenik that I am, of course I do not share these sentiments. So what has made me angry lately? Well, these sorts of people with their self-entitled attitudes do, sure. But I suppose that last thing I can remember making me feel angry is a certain rich politician, overweight and ghastly in nature — a man rich from stealing precious minerals from the earth — a hardcore racist, sexist, homophobic, xenophobe from Queensland (home of the Australian born redneck).
 
-![Tux, the Linux mascot](https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+I'm not going to name him, but this man spends millions of dollars spreading misinformation, particularly about Covid. I don't really want to talk about Covid, because like most people I am _so_ sick of talking about Covid. But this bizarre spread of misinformation, and this coagulation of conspiracy theorists are something that make me angry.
 
-Stumptown celiac gochujang, ramps poke knausgaard butcher copper mug godard occupy la croix retro kinfolk hot chicken. Brooklyn food truck poke adaptogen leggings banh mi echo park shabby chic chia dreamcatcher. Bespoke thundercats portland, cornhole tofu farm-to-table schlitz hell of. Knausgaard disrupt tacos, hexagon hoodie trust fund YOLO taxidermy organic meh normcore cliche helvetica. Occupy seitan synth taiyaki master cleanse, hashtag kitsch irony hella affogato. Kitsch ethical green juice, cray brooklyn deep v taiyaki offal banjo four loko keytar letterpress tbh iceland truffaut. Waistcoat cornhole viral gluten-free, williamsburg raclette hammock health goth forage readymade ethical palo santo shoreditch chambray.
+Back in the day, before the world of misinformation really exploded, I dabbled in a conspiracy theory or two. David Icke, for example, has written dozens of books about how earth is secretly controlled by a hidden race of extraterrestrial lizard people. Shit like that is just so bizarre, I was fascinated. It was like a thought experiement, something to turn my brain inside out. 
 
-> Dorothy followed her through many of the beautiful rooms in her castle.
+Of course, I never believed it even for a split second.
 
-Echo park palo santo unicorn disrupt. Sriracha asymmetrical ugh, mlkshk banjo bitters neutra godard palo santo. Lyft sustainable seitan, slow-carb actually pug fashion axe bicycle rights raclette retro banh mi try-hard. VHS unicorn fam, next level yr ramps enamel pin beard succulents fanny pack vinyl. Microdosing yuccie raw denim, pinterest celiac drinking vinegar neutra pop-up listicle unicorn hammock. Kickstarter vexillologist bicycle rights raclette selfies. Fixie locavore selvage truffaut DIY tumeric thundercats humblebrag swag kickstarter pabst letterpress kale chips.
+I guess misinformation makes me angry. The desecration of scientific principles makes me angry. The entire notion that "googling shit" is the same as "doing research" makes me angry. Misinformation has been around for a long time, of course. Companies hired shonky scientists to spread misinformation regarding the toxic effects of lead in paint and motor fuel. How many people died because of that misinformation? One would dread to think.
+
+And yet, decades later, misinformation is back and bigger than ever. Climate change denialists, Sandy Hook conspiracy theorists, Covid anti-vaxxers and anti-maskers. The way these things have become politicised is truly bizarre.  And I really can't imagine why in the world people would spread this crap in the first place — other than simply to be a troll. There are world trolls, now. There are people who just want to watch the world burn.
+
+And there are gross, ugly, fat, horrible politicians from Queensland spreading misinformation, targeting first-nations peoples with pamphlets discouraging them from getting vaccinated. Dumb, ugly white men.  
+
+Hey, I told you I was a bleeding heart.
