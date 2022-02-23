@@ -1,0 +1,9 @@
+<div class="banner pv5 mb5">
+  <h1 class="tc b mv5 dark-gray">
+    {{ if .IsHome }}
+      {{ $.Site.Params.brief }}
+    {{ else }}
+      {{ title .Section }}: {{.Title}}
+    {{ end }}
+  </h1>
+</div>

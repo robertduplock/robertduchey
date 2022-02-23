@@ -5,7 +5,7 @@ theme = 'rd'
 paginate = 6
 
 [params]
-  brief = 'A blog about things'
+  brief = 'Life is better with lemons'
   paginate = 3
 
 [menu]

@@ -1,19 +1,13 @@
 {{ define "main" }}
-  <main>
-    <article class="pa4 mb4">
-      <header>
-        <h1>{{.Title}}</h1>
-      </header>
-        {{.Content}}
-    </article>
-    <ul>
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
-        {{ range $paginator.Pages }}
-          <li>
-            <a href="{{.Permalink}}">{{.Title}}</a>
-          </li>
-        {{ end }}
-    </ul>
-      {{ template "_internal/pagination.html" . }}
+
+  <main aria-role="main" class="">
+
+      {{- partial "banner.html" . -}}
+
+    <div class="mw8 center ph3">
+      {{ range .Paginator.Pages }}
+          {{- partial "article.html" . -}}
+      {{ end }}
+    </div>
   </main>
 {{ end }}

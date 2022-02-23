@@ -1,30 +1,14 @@
 {{ define "main" }}
   <main aria-role="main" class="">
-    <h1 class="tc b mv5 dark-gray">{{ $.Site.Params.brief }}</h1>
-    {{ range .Paginator.Pages }}
-      <article class="shadow-1 br2 pa4 mb4">
-        <h2> {{ .Title }} </h2>
-        <small>Post date: {{.Date.Format "02/01/2006"}}</small>
-        <div class="summary dark-gray avenir">
-          {{ .Summary }}
-        </div>
-        <div class="full-content dark-gray avenir">
-          {{ .Content }}
-        </div>
-        <div class="tags-list mt3">
-          {{- with .Params.tags -}}
-              {{- range . -}}
-                <a class="link dim color-primary b mr2" href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/">#{{ . }}</a>
-              {{ end -}}
-          {{- end -}}
-        </div>
-        <div class="flex justify-end">
-          <a class="read-more link dim color-primary b" href="#">Read more</a>
-          <a class="show-less link dim color-primary b dn" href="#">Show less</a>
-        </div>
 
-      </article>
-    {{ end }}
-      {{ template "_internal/pagination.html" . }}
+    {{- partial "banner.html" . -}}
+
+    <div class="mw8 center ph3">
+      {{ range .Paginator.Pages }}
+        {{- partial "article.html" . -}}
+      {{ end }}
+        {{ template "_internal/pagination.html" . }}
+      </div>
+
   </main>
 {{ end }}
