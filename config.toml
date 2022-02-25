@@ -6,6 +6,7 @@ paginate = 6
 
 [params]
   brief = 'Life is better with lemons'
+  subtitle = 'A little blog by Robert Duchey'
   paginate = 3
 
 [menu]

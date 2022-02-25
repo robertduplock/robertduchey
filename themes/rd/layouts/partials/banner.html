@@ -1,9 +1,15 @@
-<div class="banner pv5 mb5">
-  <h1 class="tc b mv5 dark-gray">
+<div class="banner pv5 pv6-l mb5">
+  <h1 class="tc f1 b mv5 near-white text-shadow-1">
     {{ if .IsHome }}
       {{ $.Site.Params.brief }}
     {{ else }}
       {{ title .Section }}: {{.Title}}
     {{ end }}
   </h1>
+  {{ if .IsHome }}
+    <h2 class="tc f3 b mv5 near-white text-shadow-1 underline">
+      {{ $.Site.Params.subtitle }}
+    </h2>
+  {{ end }}
+
 </div>

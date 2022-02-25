@@ -1,11 +1,12 @@
-<article class="br2 pa4 mb4 shadow-1--hover">
-  <h2> {{ .Title }} </h2>
-  <small>Post date: {{.Date.Format "02/01/2006"}}</small>
+<article class="bb b--moon-gray pa4 mb4 shadow-1--hover">
+  <h2 class="tc"> {{ .Title }} </h2>
+  <small class="tc db mb4">— Post date: {{.Date.Format "02/01/2006"}} // By Robert Duchey —</small>
+  {{ $content := replace .Content .Summary "" }}
   <div class="summary dark-gray avenir">
       {{ .Summary }}
   </div>
   <div class="full-content dark-gray avenir">
-      {{ .Content }}
+      {{ $content | safeHTML }}
   </div>
   <div class="tags-list mt3">
       {{- with .Params.tags -}}

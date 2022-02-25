@@ -11,6 +11,8 @@ draft: true
 ---
 I used to always think of myself as someone who didn't get angry. And to some extent, certainly, that was true. I wasn't the kind of person who got angry at people. I wasn't one to lament the unfairness of life — perhaps, due to my relative priveledge as a white male growing up in a western liberal democracy, I haven't felt particularly entitled to a lot of anger. 
 
+<!--more-->
+
 But I've known angry people. There are some people in the world who feel like it is the world who owes them something, and when expected to give, they feel as though others are taking away — even stealing. _Why should my tax dollars go to help someone who makes less money than me? I've earned my money, and now they're stealing it from me!_
 
 Being the lefty, bleeding-heart peacenik that I am, of course I do not share these sentiments. So what has made me angry lately? Well, these sorts of people with their self-entitled attitudes do, sure. But I suppose that last thing I can remember making me feel angry is a certain rich politician, overweight and ghastly in nature — a man rich from stealing precious minerals from the earth — a hardcore racist, sexist, homophobic, xenophobe from Queensland (home of the Australian born redneck).
