@@ -6,6 +6,8 @@ title = "My day so far"
 +++
 My day so far has been short because it's only 9:05 in the morning. I've already made a pour-over coffee — my second coffee of the day thus far — and I'm sitting at my desk.
 
+<!-- more -->
+
 Last night it poured rain to the point I thought the entire world might flood. It was Noah's Ark levels of rainfall. Biblical, one might say. Finally, just now, the rain has broken, and a tiny glimmer of sunshine has elbowed its way through the droll grey clouds above.
 
 This morning I woke up tired, as I didn't sleep well. Our bedroom is upstairs, which means it gets hotter than the rest of the house — and with these balmy, humid Sydney nights, I tend to toss and turn in the bedsheets, trying to stay cool. This is all despite the fact I have a fan blowing on me at full blast.
