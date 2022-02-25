@@ -6,7 +6,7 @@ title = "My day so far"
 +++
 My day so far has been short because it's only 9:05 in the morning. I've already made a pour-over coffee — my second coffee of the day thus far — and I'm sitting at my desk.
 
-<!-- more -->
+<!--more-->
 
 Last night it poured rain to the point I thought the entire world might flood. It was Noah's Ark levels of rainfall. Biblical, one might say. Finally, just now, the rain has broken, and a tiny glimmer of sunshine has elbowed its way through the droll grey clouds above.
 
