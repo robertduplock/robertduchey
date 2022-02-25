@@ -11,7 +11,7 @@ Last night it poured rain to the point I thought the entire world might flood. I
 
 This morning I woke up tired, as I didn't sleep well. Our bedroom is upstairs, which means it gets hotter than the rest of the house — and with these balmy, humid Sydney nights, I tend to toss and turn in the bedsheets, trying to stay cool. This is all despite the fact I have a fan blowing on me at full blast.
 
-My dog, Charlie, is at daycare today. He loves daycare, and it's nice to have a day off from him now and again. To steal a joke I saw on Facebook:
+My dog, Charlie, is at daycare today. He loves daycare, and it's nice to have a day off from him now and then. To steal a joke I saw on Facebook:
 
 > I love to spend time with my dog
 >
