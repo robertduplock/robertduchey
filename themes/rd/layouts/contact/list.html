@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <main aria-role="main" class="">
+      {{- partial "banner.html" . -}}
+    <div class="dark-gray avenir tc ph3">
+      {{ .Content }}
+    </div>
+    <form class="measure center mb4" action="https://formspree.io/f/xjvlrvgl" method="POST">
+      <fieldset id="sign_up" class="ba b--transparent ph0 mh0">
+        <div class="mt3">
+          <label class="db fw6 lh-copy f6" for="name">Name</label>
+          <input class="pa2 input-reset ba bg-transparent w-100" type="text" name="name" id="name" required>
+        </div>
+        <div class="mv3">
+          <label class="db fw6 lh-copy f6" for="email-address">Email</label>
+          <input class="pa2 input-reset ba bg-transparent w-100" type="email" name="email-address" id="email-address" required>
+        </div>
+        <div class="mv3">
+          <label for="comment" class="db fw6 lh-copy f6">Message</label>
+          <textarea id="comment" name="comment" class="pa2 input-reset ba bg-transparent w-100" rows="4" aria-describedby="comment-desc" required></textarea>
+        </div>
+      </fieldset>
+      <div class="g-recaptcha mb3" data-sitekey="6LcQ6aIeAAAAACdSOXAR253AU2EQIxDjDRZVu9qC"></div>
+      <div class="">
+        <input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib w-100" type="submit" value="Send">
+      </div>
+    </form>
+  </main>
+{{ end }}

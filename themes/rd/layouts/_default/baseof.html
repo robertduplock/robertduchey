@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
-    {{- partial "head.html" . -}}
-    <body class="avenir">
-        {{- partial "header.html" . -}}
-        <section class="center baskerville">
-            <div class="lh-copy">
-                {{- block "main" . }}{{- end }}
-            </div>
-        </section>
-        {{- partial "footer.html" . -}}
-    </body>
+  {{- partial "head.html" . -}}
+  <body class="avenir">
+    {{- partial "header.html" . -}}
+    <section class="center baskerville">
+      <div class="lh-copy">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </section>
+    {{- partial "footer.html" . -}}
+  </body>
 </html>

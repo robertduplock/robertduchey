@@ -29,5 +29,5 @@ const readMore = () => {
 }
 
 document.addEventListener('DOMContentLoaded', (event) => {
-    readMore();
+    setTimeout(() => readMore());
 });

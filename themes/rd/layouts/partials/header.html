@@ -3,8 +3,9 @@
     {{ .Site.Title }}
   </a>
   <div class="db dtc-l v-mid w-100 w-75-l tc tr-l">
-    {{ range .Site.Menus.main }}
-      <a class="link dim near-white f6 f5-l dib mr3 mr4-l" href="{{ .URL }}" title="Home">{{ .Name }}</a>
+    {{ range $i, $e := .Site.Menus.main }}
+      {{ $len := len $.Site.Menus.main }}
+      <a class="link dim near-white f6 f5-l dib {{ if not (eq (add $i 1) $len ) }} mr3 mr4-l {{ end }}" href="{{ .URL }}" title="Home">{{ .Name }}</a>
     {{ end }}
   </div>
 </nav>
