@@ -1,7 +1,7 @@
 +++
 date = 2022-02-27T13:00:00Z
 draft = true
-tags = ["Wallet", "Blog"]
+tags = ["Changes", "ID", "Cash", "Coins", "Wallet", "Blog"]
 title = "What I keep in my wallet"
 
 +++
