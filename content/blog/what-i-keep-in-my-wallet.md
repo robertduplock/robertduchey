@@ -18,3 +18,7 @@ Now that cash is almost a thing of the past, do we still need wallets? Soon, I d
 Of course, my drivers license is my main form of ID. No one wants to get stuck without ID in an instance when they may need it. For example, driving. You must have your license on you when you drive. Of course, digital licenses are coming in, but I wasn't able to add mine to my phone. And again, there is something about the safety of a backup physical card that won't run out of battery at a bad time.
 
 My wallet also contains a library card. Just last week I checked out Star Trek: Picard: The Last Best Hope by Una McCormack. Checking a book out of a library is always a joyous thing for me. I feel like I'm getting away with some kind of amazing heist — a book, for free. Yes, you get to read a new release, hard cover book for free. Just read it within three weeks (or get an extension if no one else is on the wait list). I don't feel as though libraries get as much love as they should, even though I wish my local library had a better sci-fi section! 
+
+A few coins also can be found in my wallet. Coins are good for pretty much nothing, but they have the extra disadvantage of weighing quite a lot. So I don't keep coins if I can avoid it. 
+
+Wallets... they may be a thing of the past sooner than we expect.
