@@ -4,14 +4,12 @@
     --near-black: #111111;
 }
 
-.full-content {
-    height: 0;
-    overflow: hidden;
-    transition: 0.3s all ease;
+.full-content > *:not(:first-child) {
+    display: none;
 }
 
-.full-content.show {
-    height: fit-content;
+.full-content.show > *:not(:first-child) {
+    display: block;
 }
 
 .bg-color-primary {
