@@ -18,3 +18,11 @@ At the time, my sister and my dad both hated living in the country. Being only s
 It wasn't all doom and gloom though. They owned a Nintendo, and after a lot of nagging we managed to convince our parents to buy us one too. Mario, Zelda and all the rest of it. This was the old, 8-bit Nintendo Entertainment System. We used to own a game called "Family Fun & Fitness" which is actually a lot like the Wii Fit stuff you see nowadays. 
 
 ![Family Fun Fitness w/ Athletic World | Nintendo NES - Catawiki](https://assets.catawiki.nl/assets/2018/4/19/1/3/f/13f31c8e-836d-41c3-b6d3-66217e30b7a1.jpg)
+
+I can't say those were the worst days of my life. I remember games of cricket in the backyard, our skin shining with a thick layer of sweat. Inglewood got hot. And I do mean hot. Often, summer days would approach 40 degrees. Yeech. We used to run the sprinker and charge at it, holding up rubbish tin lids like shields, getting sprayed and pretending we were soldiers heading in for battle.
+
+Just the typical stuffs young boys do. 
+
+In those days I was a senstive kid. I was raised that way, I think. My parents (or, I suppose my Mum in particular, since Dad was a pretty hands-off parent) did not believe in the school of hard knocks, or letting their kids learn lessons the tough way. We weren't spoiled, but we were coddled. Too much so, perhaps... But that's not a criticism. We were loved, and that counts for a lot. Is there anything else a kid wants other than to be loved by their parents? 
+
+I'd take a little coddling over being whipped by a coat hanger anyday.
